@@ -1,17 +1,19 @@
-from pprint import pprint
 H, W = map(int, input().split())
 
 # append list per one row
-# for _ in range(h):
+# for _ in range(H):
 #    aa = list(input())
 #        a.append(aa)
 A = [input() for _ in range(H)]
 
-# extract if all the row is '#'
+# extract the row if includes '#'
+# E.g. ['##.#', '....', '##.#', '.#.#']-> ['##.#', '##.#', '.#.#']
 A = list(filter(lambda a: any(x == '#' for x in a), A))
 
+pprint(zip(*A))
 # exchange column and row by zip(*A)
-# extract if all the row is '#'
+# E.g. ['##.#', '##.#', '.#.#'] -> ['##.', '###', '....', '###']
+# extract the row if includes '#'
 A = list(filter(lambda a: any(x == '#' for x in a), zip(*A)))
 
 # exchange column and row by zip(*A)

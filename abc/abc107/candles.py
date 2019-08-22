@@ -6,5 +6,6 @@ x = list(map(int, input().split()))
 #for a, b in zip(x, x[K-1:]):
 #    print(a, b)
 # the answer is the minimum number of Xi+k−1 − Xi + min(|Xi|,|Xi+k−1|) 
+# the initial distance is always coordinate 0
 ans = min(b - a + min(abs(a), abs(b)) for a, b in zip(x, x[K-1:]))
 print(ans)

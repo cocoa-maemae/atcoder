@@ -2,6 +2,8 @@
 | Contest | B Problem | Solution | C Problem | Solution | D Problem | Solution |
 | ----- | -------- | ---------- | -------- | ---------- | ------- | ---------- |
 | ABC081 | [B - Shift only](https://atcoder.jp/contests/abc081/tasks/abc081_b) | [Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc081/shift_only.py) |
+| ABC083 | [B - Some Sums](https://atcoder.jp/contests/abc083/tasks/abc083_b) | [Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc083/some_sums.py) |||||
+| ABC087 | [B - Coins](https://atcoder.jp/contests/abc087/tasks/abc087_b) | [Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc087/coins.py) ||||
 | ABC088 | [B - Card Game for Two](https://atcoder.jp/contests/abc088/tasks/abc088_b) | [Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc088/card_game_for_two.py) |
 | ABC105 | [B - Cakes and Donuts ](https://atcoder.jp/contests/abc105/tasks/abc105_b) | [Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc105/cakes_and_donuts.py) | [C - Base -2 Number](https://atcoder.jp/contests/abc105/tasks/abc105_c) | [Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc105/base_2numbers.py) | [D - Candy Distribution](https://atcoder.jp/contests/abc105/tasks/abc105_d) | [Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc105/cady_distribution.py) |
 | ABC106 | [B - 105](https://atcoder.jp/contests/abc106/tasks/abc106_b) | [Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc106/b-105.py) | [C - To Infinity](https://atcoder.jp/contests/abc106/tasks/abc106_c) | [Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc106/to_infinity.py) |

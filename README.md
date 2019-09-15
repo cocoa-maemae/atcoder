@@ -1,6 +1,7 @@
 # AtCoder Solutions
 | Contest | B Problem | Solution | C Problem | Solution | D Problem | Solution |
 | ----- | -------- | ---------- | -------- | ---------- | ------- | ---------- |
+| ABC049 |||[C - 白昼夢 / Daydream](https://atcoder.jp/contests/abc049/tasks/arc065_a)||||
 | ABC081 | [B - Shift only](https://atcoder.jp/contests/abc081/tasks/abc081_b) | [Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc081/shift_only.py) |
 | ABC083 | [B - Some Sums](https://atcoder.jp/contests/abc083/tasks/abc083_b) | [Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc083/some_sums.py) |||||
 | ABC085 | [B - Kagami Mochi](https://atcoder.jp/contests/abc085/tasks/abc085_b) | [Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc085/kagami_mochi.py) |[C - Otoshidama](https://atcoder.jp/contests/abc085/tasks/abc085_c)|||

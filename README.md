@@ -14,6 +14,13 @@
 | ABC105 |[B - Cakes and Donuts ](https://atcoder.jp/contests/abc105/tasks/abc105_b) <br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc105/cakes_and_donuts.py) | [C - Base -2 Number](https://atcoder.jp/contests/abc105/tasks/abc105_c)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc105/base_2numbers.py) | [D - Candy Distribution](https://atcoder.jp/contests/abc105/tasks/abc105_d) <br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc105/cady_distribution.py) |
 | ABC106 | [B - 105](https://atcoder.jp/contests/abc106/tasks/abc106_b) <br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc106/b-105.py) | [C - To Infinity](https://atcoder.jp/contests/abc106/tasks/abc106_c) <br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc106/to_infinity.py) |
 | ABC107 | [B - Grid Compression ](https://atcoder.jp/contests/abc107/tasks/abc107_b) <br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc107/grid_compression.py) | [C - Candles](https://atcoder.jp/contests/abc107/tasks/arc101_a) <br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc107/candles.py) | [D - Median of Medians](https://atcoder.jp/contests/abc107/tasks/arc101_b) <br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc107/median_of_medians.py) |
+| ABC126 |[B - YYMM or MMYY](https://atcoder.jp/contests/abc126/tasks/abc126_b)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc126/YYMM_or_MMYY.py)|[C - Dice and Coin](https://atcoder.jp/contests/abc126/tasks/abc126_c)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc126/dice_and_coin.py)||
+| ABC127 ||[C - Prison](https://atcoder.jp/contests/abc127/tasks/abc127_c)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc127/prison.py)||
 | ABC139 || [C - Lower](https://atcoder.jp/contests/abc139/tasks/abc139_c) <br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc139/lower.py) |
 | ABC140 ||[C - Maximal Value](https://atcoder.jp/contests/abc140/tasks/abc140_c)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc140/maximal_value.py)|||
 | ABC141 ||[C - Attack Survival](https://atcoder.jp/contests/abc141/tasks/abc141_c)||
+
+## AGC
+| Contest | A Problem | B Problem | C Problem | 
+| ----- | -------- | ---------- | -------- | 
+| AGC038 |[A - 01 Matrix ](https://atcoder.jp/contests/agc038/tasks/agc038_a)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/agc/agc038/matrix.py)|||

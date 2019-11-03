@@ -19,6 +19,8 @@
 | ABC139 || [C - Lower](https://atcoder.jp/contests/abc139/tasks/abc139_c) <br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc139/lower.py) |
 | ABC140 ||[C - Maximal Value](https://atcoder.jp/contests/abc140/tasks/abc140_c)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc140/maximal_value.py)|||
 | ABC141 ||[C - Attack Survival](https://atcoder.jp/contests/abc141/tasks/abc141_c)||
+| ABC142 |||[D - Disjoint Set of Common Divisors](https://atcoder.jp/contests/abc142/tasks/abc142_d)<br>[Python Solution](https://atcoder.jp/contests/abc142/tasks/abc142_d)|
+| ABC144 ||[C - Walk on Multiplication Table](https://atcoder.jp/contests/abc144/tasks/abc144_c)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc144/walk_on_multiplication_table.py)|[D - Water Bottle](https://atcoder.jp/contests/abc144/tasks/abc144_d)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc144/water_bottle.py)|
 
 ## AGC
 | Contest | A Problem | B Problem | C Problem | 

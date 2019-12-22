@@ -5,6 +5,7 @@ def dfs(i, g):
     if i == 0:
         return 1e9
     # minimum problems count to solve
+    # i means the maximum count which can solve P of 100 score
     m = min(g // (i * 100), PC[i][0])
     # score
     s = 100 * i * m 

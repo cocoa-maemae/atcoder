@@ -4,7 +4,8 @@ def dfs(i, g):
     # if reaches at the end, m + inifinity
     if i == 0:
         return 1e9
-    # minimum problems count to solve
+    # the minimum problem count which can solve
+    # i * 100 means the current score per one problem
     m = min(g // (i * 100), PC[i][0])
     # score
     s = 100 * i * m 

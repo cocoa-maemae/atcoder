@@ -24,6 +24,13 @@ E.g.
 3 500
 5 800
 
-dfs(2, 700)->dfs(1, G - s)->dfs(0, G - s)
-dfs(1, 700)->dfs(0, G - s)
+# check from 5, 800
+->dfs(2, 700): i=2, g=700, m=3, s=600, if(600<700)
+    m+=dfs(2-1, 700-200*3)=3+1=4
+    ->dfs(1, 100): i=1, g=100, m=1, s=100, if(100<100)
+        return min(1, dfs(1-1, 100))=1
+    return min(4, dfs(2-1, 700))=min(4, 3)=3 # 4 is the minumum count when i=2
+    ->dfs(1, 700): i=1, g=700, m=3, s=300, if(300<700)
+        m+=dfs(1-1, 700-300)=3+0=3
+        return (3, dfs(1-1, 700))=3 # 3 is the minimum count when i=1 
 """

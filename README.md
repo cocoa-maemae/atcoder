@@ -22,7 +22,7 @@
 | ABC142 |||[D - Disjoint Set of Common Divisors](https://atcoder.jp/contests/abc142/tasks/abc142_d)<br>[Python Solution](https://atcoder.jp/contests/abc142/tasks/abc142_d)|
 | ABC144 ||[C - Walk on Multiplication Table](https://atcoder.jp/contests/abc144/tasks/abc144_c)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc144/walk_on_multiplication_table.py)|[D - Water Bottle](https://atcoder.jp/contests/abc144/tasks/abc144_d)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc144/water_bottle.py)|
 | ABC148 |||[D - Brick Break](https://atcoder.jp/contests/abc148/tasks/abc148_d)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc148/brick_break.py)|
-| ABC149 |[B - Greedy Takahashi](https://atcoder.jp/contests/abc149/tasks/abc149_b)|[C - Next Prime](https://atcoder.jp/contests/abc149/tasks/abc149_c)|[D - Prediction and Restriction](https://atcoder.jp/contests/abc149/tasks/abc149_d)|
+| ABC149 |[B - Greedy Takahashi](https://atcoder.jp/contests/abc149/tasks/abc149_b)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc149/greedy_takahashi.py)|[C - Next Prime](https://atcoder.jp/contests/abc149/tasks/abc149_c)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc149/next_prime.py)|[D - Prediction and Restriction](https://atcoder.jp/contests/abc149/tasks/abc149_d)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc149/prediction_and_restriction.py)|
 
 ## AGC
 | Contest | A Problem | B Problem | C Problem | 

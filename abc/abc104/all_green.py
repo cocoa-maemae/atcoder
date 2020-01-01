@@ -6,17 +6,17 @@ def dfs(i, g):
         return 1e9
     # the minimum problem count which can solve
     # i * 100 means the current score per one problem
-    m = min(g // (i * 100), PC[i][0])
+    mc = min(g // (i * 100), PC[i][0])
     # score
-    s = 100 * i * m 
+    s = 100 * i * mc
     # bonus point
-    if m == PC[i][0]:
+    if mc == PC[i][0]:
         s += PC[i][1]
     # If sum is under g, call function again
     if s < g:
         # get minimums problems count to solve the rest sum
-        m += dfs(i - 1, g - s)
-    return min(m, dfs(i - 1, g))
+        mc += dfs(i - 1, g - s)
+    return min(mc, dfs(i - 1, g))
 print(dfs(D, G))
 """
 E.g.

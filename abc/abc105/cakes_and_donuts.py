@@ -1,8 +1,11 @@
 N = int(input())  # 1 <= N <= 100
-b = 1
-for i in range(25):  # the limit 4 * 25 = 100
-    b |= b << 4
-for i in range(15):  # the limit 7 * 15 = 105
-    b |= b << 7
-ans = "Yes" if (b >> N) & 1 else "No"
-print(ans)
+cake = N // 4
+donuts = N // 7
+calcs = False
+for i in range(cake + 1):
+  for j in range(donuts + 1):
+    s = i * 4 + j * 7
+    if s == N:
+      calcs = True
+      break
+print("Yes" if calcs else "No")

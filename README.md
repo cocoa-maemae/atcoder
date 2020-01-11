@@ -24,6 +24,7 @@
 | ABC145 |||[D - Knight](https://atcoder.jp/contests/abc145/tasks/abc145_d)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc145/knight.py)|[E - All-you-can-eat](https://atcoder.jp/contests/abc145/tasks/abc145_e)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc145/all_you_can_eat.py)|
 | ABC148 |||[D - Brick Break](https://atcoder.jp/contests/abc148/tasks/abc148_d)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc148/brick_break.py)|
 | ABC149 |[B - Greedy Takahashi](https://atcoder.jp/contests/abc149/tasks/abc149_b)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc149/greedy_takahashi.py)|[C - Next Prime](https://atcoder.jp/contests/abc149/tasks/abc149_c)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc149/next_prime.py)|[D - Prediction and Restriction](https://atcoder.jp/contests/abc149/tasks/abc149_d)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc149/prediction_and_restriction.py)|
+| ABC150 |||[D - Semi Common Multiple](https://atcoder.jp/contests/abc150/tasks/abc150_d)<br>[Python Solution](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc150/semi_common_multiple.py)||
 
 ## AGC
 | Contest | A Problem | B Problem | C Problem | 

@@ -8,13 +8,14 @@ for h in H:
         cnt += 1
     else:
         # update answer
-        ans = max(ans, cnt)
+        if ans < cnt:
+            ans = cnt
         # reset
         cnt = 0
     # height completed to be passed
     last_h = h
 # check the last cnt and update answer
-print(max(ans, cnt))
+print(ans if ans > cnt else cnt)
 """
 E.g.
 5

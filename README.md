@@ -1,5 +1,5 @@
 # AtCoder Solutions
-## ABC
+## AtCoder Beginner Contest
 | Contest | B Problem | C Problem | D Problem | E Problem |
 | ----- | -------- | ---------- | -------- | -------- |
 | ABC049 | |[C - 白昼夢 / Daydream](https://atcoder.jp/contests/abc049/tasks/arc065_a)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc049/daydream.py)||||
@@ -28,7 +28,14 @@
 | ABC150 |||[D - Semi Common Multiple](https://atcoder.jp/contests/abc150/tasks/abc150_d)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc150/semi_common_multiple.py)||
 |ABC151||[C - Welcome to AtCoder](https://atcoder.jp/contests/abc151/tasks/abc151_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc151/welcome_to_atcoder.py)||
 
-## AGC
+## AtCoder Regular Contest
+
+## AtCoder Grand Contest
 | Contest | A Problem | B Problem | C Problem | 
 | ----- | -------- | ---------- | -------- | 
 | AGC038 |[A - 01 Matrix ](https://atcoder.jp/contests/agc038/tasks/agc038_a)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/agc/agc038/matrix.py)|||
+
+## Other Rated Contests
+|Contest|A Problem|B Problem|C Problem|D Problem|E Problem|F Problem|
+| ----- | -------- | ---------- | -------- | -------- | -------- | -------- |
+|DISCO presents ディスカバリーチャンネル コードコンテスト2020 予選||[B - Iron Bar Cutting](https://atcoder.jp/contests/ddcc2020-qual/tasks/ddcc2020_qual_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/other/disco_discovery_2020_prejudging/iron_bar_cutting.py)|||

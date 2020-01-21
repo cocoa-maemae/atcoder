@@ -27,6 +27,7 @@
 | ABC149 |[B - Greedy Takahashi](https://atcoder.jp/contests/abc149/tasks/abc149_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc149/greedy_takahashi.py)|[C - Next Prime](https://atcoder.jp/contests/abc149/tasks/abc149_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc149/next_prime.py)|[D - Prediction and Restriction](https://atcoder.jp/contests/abc149/tasks/abc149_d)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc149/prediction_and_restriction.py)|
 | ABC150 |||[D - Semi Common Multiple](https://atcoder.jp/contests/abc150/tasks/abc150_d)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc150/semi_common_multiple.py)||
 |ABC151||[C - Welcome to AtCoder](https://atcoder.jp/contests/abc151/tasks/abc151_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc151/welcome_to_atcoder.py)||
+|ABC152||[C - Low Elements](https://atcoder.jp/contests/abc152/tasks/abc152_c)<br>][Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc152/low_elements.py)||
 
 ## AtCoder Regular Contest
 

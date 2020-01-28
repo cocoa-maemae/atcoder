@@ -5,9 +5,9 @@ mid = total // 2 # seperation poin:
 sum_left, sum_left2 = 0, 0
 seperation_i = 0
 """
-If A=[2,4,6,1,3,4], sum_left=12, sum_left2=6, seperation_i=2
+If A=[2,4,6,1,3,4], mid=10, sum_left=12, sum_left2=6, seperation_i=2
 """
-for i, l in enumerate(A[:-1]):
+for i, l in enumerate(A):
   sum_left += l
   if sum_left >= mid:
       seperation_i = i

@@ -1,16 +1,32 @@
-from sys import stdin,setrecursionlimit
-setrecursionlimit(10 ** 6)
-input = stdin.readline
-N, M = map(int, input().split())
-ac = [False] * N # index means p
+import sys
+"""
+click Ctrl+D finally
+"""
+"""
+*PS type is list. 
+E.g. 
+['1', 'WA', '1', 'AC', '2', 'WA', '2', 'AC', '2', 'WA']
+"""
+N, M, *PS = sys.stdin.read().strip().split()
+N = int(N)
+ac = [0] * N # index means p
 wa = [0] * N # index means p
-wa_cnt = 0
-for i in range(M):
-  p, s = input().split()
-  p = int(p) - 1 # index starts from 0
-  if ac[p] is False and s == "AC":
-    wa_cnt += wa[p]
-    ac[p] = True
-  elif s == "WA":
-    wa[p] += 1
-print(ac.count(True), wa_cnt)
+"""
+convert list to dict by using zip
+E.g.
+['1', 'WA', '1', 'AC', '2', 'WA', '2', 'AC', '2', 'WA']
+->[('1', 'WA'),('1','AC')....]
+"""
+for p, s in zip(*[iter(PS)] * 2):
+    p = int(p) - 1 # index starts from 0
+    if s == "AC":
+        ac[p] = 1
+    elif ac[p] == 0: # if WA is 0 at the p try
+        wa[p] += 1
+"""
+If *PA=['1', 'WA', '1', 'AC', '2', 'WA', '2', 'AC', '2', 'WA'],
+ac=[1,1]
+wa=[1,1]
+"""
+penalties = sum([w * a for a, w in zip(ac, wa)])
+print("{} {}".format(sum(ac), penalties))

@@ -29,6 +29,7 @@
 | ABC150 |||[D - Semi Common Multiple](https://atcoder.jp/contests/abc150/tasks/abc150_d)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc150/semi_common_multiple.py)||
 |ABC151||[C - Welcome to AtCoder](https://atcoder.jp/contests/abc151/tasks/abc151_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc151/welcome_to_atcoder.py)||
 |ABC152||[C - Low Elements](https://atcoder.jp/contests/abc152/tasks/abc152_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc152/low_elements.py)||
+|ABC154|[C - Distinct or Not](https://atcoder.jp/contests/abc154/tasks/abc154_c)|[D - Dice in Line](https://atcoder.jp/contests/abc154/tasks/abc154_d)||
 
 ## AtCoder Regular Contest
 

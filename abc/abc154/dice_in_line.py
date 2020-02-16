@@ -2,7 +2,14 @@ from itertools import accumulate
 N, K = map(int, input().split())
 P = list(map(int, input().split()))
 acc = [0] + list(accumulate(P))
+"""
+If, acc: [0,1,3,5,9,14]
+for a, b in zip(acc, acc[K:]):
+  print(a, b)
+is (0,5),(1,9),(3,14)
+"""
 print((max(b - a for a, b in zip(acc, acc[K:])) + K) / 2)
+
 """
 expecation of 1~p is (1+p)/2
 

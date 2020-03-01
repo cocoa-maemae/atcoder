@@ -3,6 +3,7 @@
 | Contest | B Problem | C Problem | D Problem | E Problem |
 | ----- | -------- | ---------- | -------- | -------- |
 |ABC032||[C - 列](https://atcoder.jp/contests/abc032/tasks/abc032_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc032/retu.py)|||
+|ABC038||[C - 単調増加](https://atcoder.jp/contests/abc038/tasks/abc038_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc038/monotonous_increment.py)||
 | ABC049 | |[C - 白昼夢 / Daydream](https://atcoder.jp/contests/abc049/tasks/arc065_a)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc049/daydream.py)||||
 | ABC061 ||[C - たくさんの数式 / Many Formulas](https://atcoder.jp/contests/arc061/tasks/arc061_a)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc061/many_folumas.py)||
 | ABC079 ||[C - Train Ticket](https://atcoder.jp/contests/abc079/tasks/abc079_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc079/train_ticket.py)||
@@ -31,6 +32,9 @@
 |ABC151||[C - Welcome to AtCoder](https://atcoder.jp/contests/abc151/tasks/abc151_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc151/welcome_to_atcoder.py)||
 |ABC152||[C - Low Elements](https://atcoder.jp/contests/abc152/tasks/abc152_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc152/low_elements.py)||
 |ABC154||[C - Distinct or Not](https://atcoder.jp/contests/abc154/tasks/abc154_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc154/distinct_or_not.py)|[D - Dice in Line](https://atcoder.jp/contests/abc154/tasks/abc154_d)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc154/dice_in_line.py)||
+|ABC155||[C - Poll](https://atcoder.jp/contests/abc155/tasks/abc155_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc155/poll.py)||
+|ABC156||[C - Rally](https://atcoder.jp/contests/abc156/tasks/abc156_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc156/rally.py)||
+|ABC157||[C - Guess The Number](https://atcoder.jp/contests/abc157/tasks/abc157_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc157/guess_the_number.py)||
 
 ## AtCoder Regular Contest
 

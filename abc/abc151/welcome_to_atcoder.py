@@ -7,8 +7,8 @@ click Ctrl+D finally
 E.g. 
 ['1', 'WA', '1', 'AC', '2', 'WA', '2', 'AC', '2', 'WA']
 """
-N, M, *PS = sys.stdin.read().strip().split()
-N = int(N)
+N, M = map(int, input().split())
+PS = sys.stdin.read().strip().split()
 ac = [0] * N # index means p
 wa = [0] * N # index means p
 """

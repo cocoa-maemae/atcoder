@@ -35,6 +35,7 @@
 |ABC155||[C - Poll](https://atcoder.jp/contests/abc155/tasks/abc155_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc155/poll.py)||
 |ABC156||[C - Rally](https://atcoder.jp/contests/abc156/tasks/abc156_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc156/rally.py)||
 |ABC157||[C - Guess The Number](https://atcoder.jp/contests/abc157/tasks/abc157_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc157/guess_the_number.py)||
+|ABC158||[C - Tax Increase](https://atcoder.jp/contests/abc158/tasks/abc158_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc158/tax_increase.py)||||
 
 ## AtCoder Regular Contest
 

@@ -1,3 +1,4 @@
+# similar like ABC152 C - Low Elements
 N = int(input())
 A = map(int, input().split())
 tmp, pre, ans = 0, 0, 0

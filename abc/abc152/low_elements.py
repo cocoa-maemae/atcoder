@@ -5,8 +5,8 @@ P = list(map(int, input().split()))
 cnt = 1 # P[0] is counted forcely
 min = P[0]
 for p in P:
-  # (1≤j≤i),Pj=>Pi
-  if min > p:
+  # (1≤j≤i),Pi<=Pj
+  if p < min:
     min = p
     cnt += 1
 print(cnt)

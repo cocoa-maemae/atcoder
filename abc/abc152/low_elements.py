@@ -1,3 +1,4 @@
+# greedy
 # similar like ABC38 C - 単調増加
 N = int(input())
 P = list(map(int, input().split()))

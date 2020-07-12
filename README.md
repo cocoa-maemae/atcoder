@@ -38,6 +38,7 @@
 |ABC158||[C - Tax Increase](https://atcoder.jp/contests/abc158/tasks/abc158_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc158/tax_increase.py)||||
 |ABC159||[C - Maximum Volume](https://atcoder.jp/contests/abc159/tasks/abc159_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc159/maximum_volume.py)||||
 |ABC160||[C - Traveling Salesman around Lake](https://atcoder.jp/contests/abc160/tasks/abc160_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc160/traveling_salesman_around_lake.py)|||
+|ABC161||[C - Replacing Integer](https://atcoder.jp/contests/abc161/tasks/abc161_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc161/replacing_integer.py)||
 
 ## AtCoder Regular Contest
 

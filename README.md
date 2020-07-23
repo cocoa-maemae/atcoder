@@ -39,6 +39,7 @@
 |ABC159||[C - Maximum Volume](https://atcoder.jp/contests/abc159/tasks/abc159_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc159/maximum_volume.py)||||
 |ABC160||[C - Traveling Salesman around Lake](https://atcoder.jp/contests/abc160/tasks/abc160_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc160/traveling_salesman_around_lake.py)|||
 |ABC161||[C - Replacing Integer](https://atcoder.jp/contests/abc161/tasks/abc161_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc161/replacing_integer.py)||
+|ABC162|[B - FizzBuzz Sum](https://atcoder.jp/contests/abc162/tasks/abc162_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc162/fizzbuzz_sum.py)|[C - Sum of gcd of Tuples (Easy)](https://atcoder.jp/contests/abc162/tasks/abc162_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc162/sum_of_gcd_of_tuples.py)||
 
 ## AtCoder Regular Contest
 

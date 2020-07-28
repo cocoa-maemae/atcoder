@@ -5,7 +5,7 @@
 |ABC032||[C - 列](https://atcoder.jp/contests/abc032/tasks/abc032_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc032/retu.py)|||
 |ABC038||[C - 単調増加](https://atcoder.jp/contests/abc038/tasks/abc038_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc038/monotonous_increment.py)||
 | ABC049 | |[C - 白昼夢 / Daydream](https://atcoder.jp/contests/abc049/tasks/arc065_a)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc049/daydream.py)||||
-| ABC061 ||[C - たくさんの数式 / Many Formulas](https://atcoder.jp/contests/arc061/tasks/arc061_a)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc061/many_folumas.py)||
+| ABC061 ||[C - たくさんの数式 / Many Formulas](https://atcoder.jp/contests/arc061/tasks/arc061_a)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc061/many_formulas.py)||
 | ABC079 ||[C - Train Ticket](https://atcoder.jp/contests/abc079/tasks/abc079_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc079/train_ticket.py)||
 | ABC081 |[B - Shift only](https://atcoder.jp/contests/abc081/tasks/abc081_b) <br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc081/shift_only.py) |
 | ABC083 |[B - Some Sums](https://atcoder.jp/contests/abc083/tasks/abc083_b) <br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc083/some_sums.py) |||||

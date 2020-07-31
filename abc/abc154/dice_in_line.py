@@ -8,6 +8,16 @@ for a, b in zip(acc, acc[K:]):
   print(a, b)
 is (0,5),(1,9),(3,14)
 """
+
+"""
+The below is mostly same as
+
+ans = 0
+for a, b in zip(acc, acc[K:]):
+  exp = (b - a + K) / 2
+  ans = max(exp, ans)
+print(ans)
+"""
 print((max(b - a for a, b in zip(acc, acc[K:])) + K) / 2)
 
 """

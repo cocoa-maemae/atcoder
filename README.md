@@ -42,7 +42,7 @@
 |ABC162|[B - FizzBuzz Sum](https://atcoder.jp/contests/abc162/tasks/abc162_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc162/fizzbuzz_sum.py)|[C - Sum of gcd of Tuples (Easy)](https://atcoder.jp/contests/abc162/tasks/abc162_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc162/sum_of_gcd_of_tuples.py)||
 |ABC163||[C - management](https://atcoder.jp/contests/abc163/tasks/abc163_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc163/management.py)||
 |ABC164||[C - gacha](https://atcoder.jp/contests/abc164/tasks/abc164_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc164/gacha.py)||
-|ABC165|[B - 1%](https://atcoder.jp/contests/abc165/tasks/abc165_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc165/1%25.py)|[C - Many Requirements](https://atcoder.jp/contests/abc165/tasks/abc165_a)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc165/many_requirements.py)||
+|ABC165|[B - 1%](https://atcoder.jp/contests/abc165/tasks/abc165_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc165/1%25.py)|[C - Many Requirements](https://atcoder.jp/contests/abc165/tasks/abc165_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc165/many_requirements.py)||
 
 ## AtCoder Regular Contest
 

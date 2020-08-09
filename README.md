@@ -34,7 +34,7 @@
 |ABC154||[C - Distinct or Not](https://atcoder.jp/contests/abc154/tasks/abc154_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc154/distinct_or_not.py)|[D - Dice in Line](https://atcoder.jp/contests/abc154/tasks/abc154_d)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc154/dice_in_line.py)||
 |ABC155||[C - Poll](https://atcoder.jp/contests/abc155/tasks/abc155_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc155/poll.py)||
 |ABC156||[C - Rally](https://atcoder.jp/contests/abc156/tasks/abc156_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc156/rally.py)||
-|ABC157||[C - Guess The Number](https://atcoder.jp/contests/abc157/tasks/abc157_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc157/guess_the_number.py)||
+|ABC157|[B - Bingo](https://atcoder.jp/contests/abc157/tasks/abc157_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc157/bingo.py)|[C - Guess The Number](https://atcoder.jp/contests/abc157/tasks/abc157_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc157/guess_the_number.py)||
 |ABC158||[C - Tax Increase](https://atcoder.jp/contests/abc158/tasks/abc158_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc158/tax_increase.py)||||
 |ABC159||[C - Maximum Volume](https://atcoder.jp/contests/abc159/tasks/abc159_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc159/maximum_volume.py)||||
 |ABC160||[C - Traveling Salesman around Lake](https://atcoder.jp/contests/abc160/tasks/abc160_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc160/traveling_salesman_around_lake.py)|||

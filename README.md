@@ -51,8 +51,13 @@
 | ----- | -------- | ---------- | -------- | 
 | AGC038 |[A - 01 Matrix ](https://atcoder.jp/contests/agc038/tasks/agc038_a)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/agc/agc038/matrix.py)|||
 
-## Other Rated Contests
+## ARC Like Contest
 |Contest|A Problem|B Problem|C Problem|D Problem|E Problem|F Problem|
 | ----- | -------- | ---------- | -------- | -------- | -------- | -------- |
 |DISCO presents ディスカバリーチャンネル コードコンテスト2020 予選||[B - Iron Bar Cutting](https://atcoder.jp/contests/ddcc2020-qual/tasks/ddcc2020_qual_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/other/disco_discovery_2020_prejudging/iron_bar_cutting.py)|||
-|パナソニックプログラミングコンテスト2020||[B - Bishop](https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/other/panasonic_programming_contest2020/bishop.py)|[C - Sqrt Inequality](https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/other/panasonic_programming_contest2020/sqrt_inequality.py)||
+
+## ABC Like Contest
+|Contest|B Problem|C Problem|D Problem|E Problem|F Problem|
+| ----- | ---------- | -------- | -------- | -------- | -------- |
+|パナソニックプログラミングコンテスト2020|[B - Bishop](https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/other/panasonic_programming_contest2020/bishop.py)|[C - Sqrt Inequality](https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/other/panasonic_programming_contest2020/sqrt_inequality.py)||
+|M-SOLUTIONS プロコンオープン 2020|[B - Magic 2](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc_like/2020/m_solutions/magic2.py)|[C - Marks](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_c)<br>[Python]()|

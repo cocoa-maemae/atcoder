@@ -1,4 +1,4 @@
-iN, M = map(int, input().split())
+N, M = map(int, input().split())
 SC = [input().split() for _ in range(M)]
 ans = ["0"] * N
 for s, c in SC:

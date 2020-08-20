@@ -43,7 +43,7 @@
 |ABC163||[C - management](https://atcoder.jp/contests/abc163/tasks/abc163_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc163/management.py)||
 |ABC164||[C - gacha](https://atcoder.jp/contests/abc164/tasks/abc164_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc164/gacha.py)||
 |ABC165|[B - 1%](https://atcoder.jp/contests/abc165/tasks/abc165_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc165/1%25.py)|[C - Many Requirements](https://atcoder.jp/contests/abc165/tasks/abc165_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc165/many_requirements.py)||
-|ABC174|[B - Distance]()<br>[Python]()|[C - Repsept]()<br>[Python]()||
+|ABC174|[B - Distance](https://atcoder.jp/contests/abc174/tasks/abc174_b)<br>[Python]()|[C - Repsept](https://atcoder.jp/contests/abc174/tasks/abc174_c)<br>[Python]()||
 
 ## AtCoder Regular Contest
 

@@ -1,22 +1,22 @@
 K = int(input())
-for i in range(K):
-  if i == 0:
-    a[i] = 7
-  else:
-    a[i] = a[i - 1] * 10 + 7
-
-  if a[i] % K == 0:
-    print(a[i])
+if K % 2 == 0 or K % 5 == 0:
+  print(-1)
+  exit()
+i, ai = 0, 0
+while True:
+  ai = (ai * 10 + 7) % K
+  i += i
+  if ai == 0:
+    print(ai)
     exit()
 
 
 """
-given array 7,77,777...=ai
+Given array 7,77,777...
 
-ai= { 7 ( i = 1)
-10 * ai−1 + 7 ( i ≥ 2) }
+ai= { 
+7 mod K ( i = 1)
+10 * ai−1 + 7 mod K ( i ≥ 2)
+}
 
-,so
-
-ai mod K = ((10 * ai-1) mod K + 7) mod K
 """

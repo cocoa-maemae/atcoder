@@ -10,6 +10,8 @@ else:
   print(abs(X - D * cnt_before_0 - D))
 
 """
+Similar with ABC161 C
+
 Get absolute value of X initially, and then like the below,
 -----0-----------------X---
 

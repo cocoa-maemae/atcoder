@@ -11,7 +11,6 @@ cnt = collections.defaultdict(int)
 for a in range(1, K + 1):
   for b in range(1, K + 1):
     cnt[gcd(a, b)] += 1
-print(cnt)
 for c in range(1, K + 1):
   for gcd_of_ab in cnt.keys():
     ans += gcd(gcd_of_ab, c) * cnt[gcd_of_ab]

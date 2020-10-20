@@ -47,6 +47,8 @@
 |ABC175||[C - Walking Takahashi](https://atcoder.jp/contests/abc175/tasks/abc175_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc175/walking_takahashi.py)||
 |ABC176|[B - Multiple of 9](https://atcoder.jp/contests/abc176/tasks/abc176_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc176/multiple_of_9.py)|||
 |ABC177|[B - Substring ](https://atcoder.jp/contests/abc177/tasks/abc177_b)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc177/substring.py)|||
+|ABC178||[C - Ubiquity](https://atcoder.jp/contests/abc178/tasks/abc178_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc178/ubiquity.py)||
+|ABC179||[C - A x B + C](https://atcoder.jp/contests/abc179/tasks/abc179_c)<br>[Python](https://github.com/cocoa-maemae/atcoder/blob/master/abc/abc179/a_b_c.py)||
 
 ## AtCoder Regular Contest
 

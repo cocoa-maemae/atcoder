@@ -7,3 +7,9 @@ for a, b in zip(*[iter(AB)] * 2):
   if H[b] >= H[a]:
     good[a] = False
 print(sum(good))
+
+"""
+Similar like 
+C - Neq Min
+C - Welcome to AtCoder
+"""

@@ -29,3 +29,9 @@ wa=[1,1]
 """
 penalties = sum([w if a > 0 else 0 for a, w in zip(ac, wa)])
 print(sum(ac), penalties)
+
+
+"""
+Similar like
+C - Peaks
+"""

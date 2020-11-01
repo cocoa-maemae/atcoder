@@ -16,6 +16,6 @@ So calculate combination count of A,B with condition like A*B<=N-1, C is also de
 If A is fixed, combination count of B=(N-1)//A
 E.g.
 A*B<=N-1 
-N=100,A=3,B=1~33 combination count of B is 100//3
+N=100,A=3,B=1~33 combination count of B is (100-1)//3
 
 """

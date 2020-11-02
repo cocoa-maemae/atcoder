@@ -5,3 +5,8 @@ for i in range(K):
   A = map(int, input().split())
   sunuke_who_has_sweets |= set(A)
 print(N - len(sunuke_who_has_sweets))
+
+"""
+Check the problems
+B - Bingo
+"""

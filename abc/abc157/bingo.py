@@ -24,3 +24,8 @@ set1>=set2 shows True
 print(["No","Yes"][True]) shows Yes, becuase True is 1
 print(["No","Yes"][False]) shows No, becuase True is 0
 """
+
+"""
+Check the problems
+B - Trick or Treat
+"""

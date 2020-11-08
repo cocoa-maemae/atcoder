@@ -1,10 +1,10 @@
 X, Y, A, B = map(int, input().split())
-a_cnt = 0
+experience = 0
 while A * X <= X + B and A * X < Y:
   X *= A
-  a_cnt += 1
-b_cnt = (Y - X - 1) // B
-print(a_cnt + b_cnt)
+  experience += 1
+experience += (Y - X - 1) // B
+print(experience)
 
 
 """

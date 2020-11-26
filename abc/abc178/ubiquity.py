@@ -11,7 +11,7 @@ N 0~9
 all the combination 10^N
 combination 0 dosen't exist 9^N
 combination 9 doesn't exist 9^N
-comtination 0 and 9 don't exist 8^N
+combination 0 and 9 don't exist 8^N
 the answer is 10^N-9^N-9^N+8^N
 
 Write Venn diagram

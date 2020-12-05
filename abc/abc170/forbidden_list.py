@@ -1,4 +1,7 @@
 X, N = map(int, input().split())
+if N == 0:
+  print(X)
+  exit()
 P = list(map(int, input().split()))
 for d in range(X + 1):
   for s in [-1, 1]:

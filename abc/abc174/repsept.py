@@ -8,6 +8,7 @@ while True:
   i += 1
   if ai == 0:
     print(i)
+    exit()
 
 
 """

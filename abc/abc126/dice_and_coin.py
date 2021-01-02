@@ -1,14 +1,18 @@
 N, K = map(int, input().split())
 ans = 0
-for i in range(1, N + 1):
+for i in range(1, N + 1): # O(N)
   p, s = 1, i
-  while s < K:
+  while s < K: # O(logK)
     p *= 0.5
     s *= 2
   ans += p / N
 print(ans)
 
+# total O(NlogK)
+
 """
+See https://www.youtube.com/watch?v=26AWkQNRb-A
+
 E.g.
 N=3,K=10
 dice has 1,2,3

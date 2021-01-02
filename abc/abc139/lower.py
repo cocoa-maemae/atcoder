@@ -1,9 +1,8 @@
-N = input()
-H = map(int, input().split())
-last_h = float('inf')
-cnt, ans = -1, 0
-for h in H:
-    if last_h >= h:
+N = int(input())
+H = list(map(int, input().split()))
+cnt, ans = 0, 0
+for i in (1, N):
+    if H[i - 1] >= H[i]:
         # count to move
         cnt += 1
     else:
@@ -12,8 +11,6 @@ for h in H:
             ans = cnt
         # reset
         cnt = 0
-    # height completed to be passed
-    last_h = h
 # check the last cnt and update answer
 print(ans if ans > cnt else cnt)
 """

@@ -6,7 +6,7 @@ for i in (1, N):
         # count to move
         cnt += 1
     else:
-        # update answer
+        # update answer(faster than max)
         if ans < cnt:
             ans = cnt
         # reset

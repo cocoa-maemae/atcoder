@@ -15,6 +15,7 @@ print(cnt)
 """
 If A<T, takahashi is stronger than aoki.
 Same as A-T<0
+Control A-T
 
 E.g.
 4
@@ -22,10 +23,17 @@ E.g.
 2 2
 5 1
 1 3
+
 Aoki's total votes=10(2+2+5+1)
 
-If Takahashi speeches, Aoki's votes is like the below.
-2 1->10-5(=2*2+5)
+4   If takahashi speeches,
+2 1 Aoki-2,takahashi+3 For Aoki -5votes
+2 2 Aoki-2,takahashi+4 For Aoki -6votes
+5 1 Aoki-5,takahashi+6 For Aoki -11votes
+1 3 Aoki-1,takahashi+4 For Aoki -5votes
+
+If Takahashi speeches, Aoki's votes decrease like the below.
+2 1->10-5(=2*2+1)
 2 2->10-6(=2*2+2)
 5 1->10-11(=5*2+1)
 1 3->10-5(=1*2+3)

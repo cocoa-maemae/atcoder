@@ -13,9 +13,10 @@ print(math.sqrt(dx * dx + dy * dy))
 See https://www.youtube.com/watch?v=MXOSqPzsiqo&feature=youtu.be
 Not need to use Cosine formula
 
-Calculate angle of minutes and hour
-theta h = (H*60+M)/720 * 2PI
-theta m = M/60 * 2PI
+Calculate angle of minutes and hour(2PI=360)
+theta h = (H*60+M)/720*2PI
+theta m = M/60*2PI
+See https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1391868678
 
 Next use sin and cos.
 If the answer is L

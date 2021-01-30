@@ -1,8 +1,8 @@
 X, Y, A, B = map(int, input().split())
 experience = 0
 while A * X <= X + B and A * X < Y:
-  X *= A
-  experience += 1
+    X *= A
+    experience += 1
 experience += (Y - X - 1) // B
 print(experience)
 

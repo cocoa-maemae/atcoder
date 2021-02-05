@@ -21,25 +21,25 @@ E.g.
 A=[2,4,4,9,4,9,-1]
 stack=[-1,0,1,2,3]
 
-i=4,stack[-1]=3,A[stack[-1]]=9>A[i]
+i=4,stack[-1]=3,A[stack[-1]]=9>A[i]=4
 ans=max(0,(4-2-1)*9)=9
 stack=[-1,0,1,2]
 
 stack=[-1,0,1,2,4,5]
 
-i=6,stack[-1]=5,A[stack[-1]]=9>A[i]
+i=6,stack[-1]=5,A[stack[-1]]=9>A[i]=-1
 ans=max(9,(6-4-1)*9)=9
 stack=[-1,0,1,2,4]
 
-i=6,stack[-1]=4,9>0
+i=6,stack[-1]=4,A[stack[-1]]=4>A[i]=-1
 ans=max(9,(6-2-1)*4)=12
 stack=[-1,0,1,2]
 
-i=6,stack[-1]=2,A[stack[-1]]=4>A[i]
+i=6,stack[-1]=2,A[stack[-1]]=4>A[i]=-1
 ans=max(9,(6-1-1)*4)=16
 stack=[-1,0,1]
 
-i=6,stack[-1]=1,A[stack[-1]]=4>A[i]
+i=6,stack[-1]=1,A[stack[-1]]=4>A[i]=-1
 ans=max(16,(6-0-1)*4)=20
 stack=[-1,0]
 
